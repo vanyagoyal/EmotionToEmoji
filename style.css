@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_ename , #result_ename2  
+{
+  color: black;
+}
+.ename
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 18px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
+kbd {
+  font-size: 15px;
+  background-color:green;
+  font-weight: bold;
+  padding:6px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#quote {
+  margin-bottom:0;
+  font-size:20px;
+  font-family:'Times New Roman', Times, serif;
+}
